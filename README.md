@@ -1,2 +1,3 @@
 # Movie-info-Crawling
-alpaco bootcamp project1. It was just my first project using python.
+It was my first project in "Alpaco Boot Camp" where I learned Python at first time.
+
