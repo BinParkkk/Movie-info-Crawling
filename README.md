@@ -1,4 +1,5 @@
 # Movie-info-Crawling
+kobis 영화 정보 크롤링 프로젝트
 It was my first project in "Alpaco Boot Camp" where I learned Python at first time.
 
 ----------------------------------------------------------------------------------------------
